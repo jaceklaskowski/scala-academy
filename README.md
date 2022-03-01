@@ -1,0 +1,2 @@
+# scala-academy
+Scala Academy
