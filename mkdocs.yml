@@ -81,6 +81,7 @@ extra:
     property: !ENV GOOGLE_ANALYTICS_KEY
   book:
     title: Scala Academy
+    calculator: https://github.com/jaceklaskowski/scala-academy/tree/main/calculator
   scala:
     api: https://www.scala-lang.org/api/2.13.8
     docs: https://docs.scala-lang.org/
