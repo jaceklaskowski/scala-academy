@@ -100,16 +100,17 @@ extra:
 nav:
   - Home: index.md
   - Scala:
-    - Week 3 (Mar 14-18):
-      - 010.md
-    - Week 2 (Mar 7-11):
-      - 005.md
-      - 006.md
-      - 007.md
-      - 008.md
-      - 009.md
+    - scala/index.md
     - Week 1 (Mar 1-4):
-      - 001.md
-      - 002.md
-      - 003.md
-      - 004.md
+      - scala/001.md
+      - scala/002.md
+      - scala/003.md
+      - scala/004.md
+    - Week 2 (Mar 7-11):
+      - scala/005.md
+      - scala/006.md
+      - scala/007.md
+      - scala/008.md
+      - scala/009.md
+    - Week 3 (Mar 14-18):
+      - scala/010.md
