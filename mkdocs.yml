@@ -100,13 +100,16 @@ extra:
 nav:
   - Home: index.md
   - Scala:
-    - Day 1: 001.md
-    - Day 2: 002.md
-    - Day 3: 003.md
-    - Day 4: 004.md
-    - Day 5: 005.md
-    - Day 6: 006.md
-    - Day 7: 007.md
-    - Day 8: 008.md
-    - Day 9: 009.md
-    - Day 10: 010.md
+    - Week 3 (Mar 14-18):
+      - 010.md
+    - Week 2 (Mar 7-11):
+      - 005.md
+      - 006.md
+      - 007.md
+      - 008.md
+      - 009.md
+    - Week 1 (Mar 1-4):
+      - 001.md
+      - 002.md
+      - 003.md
+      - 004.md
