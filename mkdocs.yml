@@ -83,7 +83,7 @@ extra:
     title: Scala Academy
     calculator: https://github.com/jaceklaskowski/scala-academy/tree/main/calculator
   scala:
-    api: https://www.scala-lang.org/api/2.13.8
+    api: https://www.scala-lang.org/api/2.13.x
     docs: https://docs.scala-lang.org/
     spec: https://www.scala-lang.org/files/archive/spec/2.12
     version: 2.13.8
