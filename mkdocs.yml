@@ -96,6 +96,8 @@ extra:
       link: https://linkedin.com/in/jaceklaskowski
     - icon: fontawesome/brands/medium
       link: https://jaceklaskowski.medium.com
+  spark:
+    version: 3.2.1
 
 nav:
   - Home: index.md
@@ -130,3 +132,8 @@ nav:
       - scala/022.md
       - scala/023.md
     - Scala Exam Friday: scala/024.md
+  - Spark:
+    - spark/index.md
+    - Week 6 (April 4-8):
+      - spark/001.md
+      - spark/002.md
