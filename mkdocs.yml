@@ -97,6 +97,7 @@ extra:
     - icon: fontawesome/brands/medium
       link: https://jaceklaskowski.medium.com
   spark:
+    docs: https://spark.apache.org/docs/3.2.1
     version: 3.2.1
 
 nav:
@@ -134,9 +135,15 @@ nav:
     - Scala Exam Friday: scala/024.md
   - Spark:
     - spark/index.md
-    - Week 6 (April 4-8):
+    - Spark SQL (Week 6):
       - spark/001.md
       - spark/002.md
       - spark/003.md
       - spark/004.md
       - spark/005.md
+    - Spark Structured Streaming (Week 7):
+      - spark/006.md
+      - spark/007.md
+      - spark/008.md
+      - spark/009.md
+      - spark/010.md
