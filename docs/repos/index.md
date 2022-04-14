@@ -47,6 +47,14 @@
 * https://github.com/dfiedosiuk/matching-brackets
 * https://github.com/dfiedosiuk/spiral-ascension
 
+---
+
+* https://github.com/dfiedosiuk/spark-exercises/blob/master/src/main/scala/P02/P02.scala
+* https://github.com/dfiedosiuk/spark-exercises/tree/master/src/main/scala/P12
+* https://github.com/dfiedosiuk/spark-exercises/blob/master/src/main/scala/P39/P39.scala
+* https://github.com/dfiedosiuk/euler/blob/master/src/main/scala/P01/ThreeOrFive.scala
+* https://github.com/dfiedosiuk/euler/blob/master/src/main/scala/P02/Fibonacci.scala
+
 ## Grzesiek
 
 * https://github.com/1Gize/letter-value-sums
