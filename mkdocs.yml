@@ -82,6 +82,8 @@ extra:
   book:
     title: Scala Academy
     calculator: https://github.com/jaceklaskowski/scala-academy/tree/main/calculator
+  kafka:
+    version: 3.1.0
   scala:
     api: https://www.scala-lang.org/api/2.13.x
     docs: https://docs.scala-lang.org/
@@ -104,30 +106,30 @@ nav:
   - Home: index.md
   - Scala:
     - scala/index.md
-    - Week 1 (Mar 1-4):
+    - Week 1:
       - scala/001.md
       - scala/002.md
       - scala/003.md
       - scala/004.md
-    - Week 2 (Mar 7-11):
+    - Week 2:
       - scala/005.md
       - scala/006.md
       - scala/007.md
       - scala/008.md
       - scala/009.md
-    - Week 3 (Mar 14-18):
+    - Week 3:
       - scala/010.md
       - scala/011.md
       - scala/012.md
       - scala/013.md
       - scala/014.md
-    - Week 4 (Mar 21-25):
+    - Week 4:
       - scala/015.md
       - scala/016.md
       - scala/017.md
       - scala/018.md
       - scala/019.md
-    - Week 5 (Mar 28 - April 1):
+    - Week 5:
       - scala/020.md
       - scala/021.md
       - scala/022.md
@@ -147,5 +149,27 @@ nav:
       - spark/008.md
       - spark/009.md
       - spark/010.md
+  - Kafka:
+    - kafka/index.md
+    - Kafka (Week 8):
+      - kafka/001.md
+    - Kafka Streams (Week 9):
+      - kafka/005.md
+      - kafka/006.md
+      - kafka/007.md
+      - kafka/008.md
+      - kafka/009.md
+  - Docker:
+    - docker/index.md
+    - Docker (Week 10):
+      - docker/001.md
+  - Hadoop:
+    - hadoop/index.md
+    - Hadoop (Week 11):
+      - hadoop/001.md
+  - Kubernetes:
+    - kubernetes/index.md
+    - Kubernetes (Week 12):
+      - kubernetes/001.md
   - Repos:
     - repos/index.md
