@@ -6,6 +6,71 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/docker/</loc>
+         <lastmod>2022-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/docker/001/</loc>
+         <lastmod>2022-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/hadoop/</loc>
+         <lastmod>2022-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/hadoop/001/</loc>
+         <lastmod>2022-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/kafka/</loc>
+         <lastmod>2022-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/kafka/001/</loc>
+         <lastmod>2022-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/kafka/005/</loc>
+         <lastmod>2022-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/kafka/006/</loc>
+         <lastmod>2022-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/kafka/007/</loc>
+         <lastmod>2022-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/kafka/008/</loc>
+         <lastmod>2022-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/kafka/009/</loc>
+         <lastmod>2022-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/kubernetes/</loc>
+         <lastmod>2022-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/kubernetes/001/</loc>
+         <lastmod>2022-04-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://jaceklaskowski.github.io/scala-academy/repos/</loc>
          <lastmod>2022-04-16</lastmod>
          <changefreq>daily</changefreq>
