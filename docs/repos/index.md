@@ -17,6 +17,12 @@
 * https://github.com/szczepanja/robot-simulator
 * https://github.com/szczepanja/pascals-triangle
 
+---
+
+* https://github.com/szczepanja/most-important-rows
+* https://github.com/szczepanja/project-euler
+* https://github.com/szczepanja/reverse-engineering
+
 ## Damian
 
 * https://github.com/zdulak/letter-value-sum
