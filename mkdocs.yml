@@ -83,6 +83,7 @@ extra:
     title: Scala Academy
     calculator: https://github.com/jaceklaskowski/scala-academy/tree/main/calculator
   kafka:
+    javadoc: https://kafka.apache.org/31/javadoc
     version: 3.1.0
   scala:
     api: https://www.scala-lang.org/api/2.13.x
@@ -153,6 +154,9 @@ nav:
     - kafka/index.md
     - Kafka (Week 8):
       - kafka/001.md
+      - kafka/002.md
+      - kafka/003.md
+      - kafka/004.md
     - Kafka Streams (Week 9):
       - kafka/005.md
       - kafka/006.md
