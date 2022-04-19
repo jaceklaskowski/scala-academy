@@ -8,6 +8,10 @@
 * https://github.com/admskrzpk/reverse-engineering
 * https://github.com/admskrzpk/Most-important-rows
 
+---
+
+* https://github.com/stars/admskrzpk/lists/easter-homework
+
 ## Ania
 
 * https://github.com/szczepanja/letter-value-sum
@@ -29,7 +33,7 @@
 * https://github.com/zdulak/isogram
 * https://github.com/zdulak/nonogram-row
 * https://github.com/zdulak/hamming
-* https://github.com/zdulak/robot-simulator/
+* https://github.com/zdulak/robot-simulator
 * https://github.com/zdulak/pascal-triangle
 * https://github.com/zdulak/matching-braces
 * https://github.com/zdulak/Tic-tac-toe-scala
@@ -39,11 +43,12 @@
 * https://github.com/zdulak/SortedList
 * https://github.com/zdulak/spiral-ascension
 * Spark
-  * https://github.com/zdulak/spark-demo
-  * https://github.com/zdulak/spark-stream
-  * https://github.com/zdulak/spark-exercises
+    * https://github.com/zdulak/spark-demo
+    * https://github.com/zdulak/spark-stream
+    * https://github.com/zdulak/spark-exercises
 * https://github.com/zdulak/project-euler
 * https://github.com/zdulak/graph
+* https://github.com/zdulak/scala-exercises
 
 ## Daniel
 
