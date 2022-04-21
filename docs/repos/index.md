@@ -12,6 +12,10 @@
 
 * https://github.com/stars/admskrzpk/lists/easter-homework
 
+---
+
+* https://github.com/admskrzpk/SparkKafka3
+
 ## Ania
 
 * https://github.com/szczepanja/letter-value-sum
@@ -26,6 +30,13 @@
 * https://github.com/szczepanja/most-important-rows
 * https://github.com/szczepanja/project-euler
 * https://github.com/szczepanja/reverse-engineering
+* https://github.com/szczepanja/scala-reddit
+* https://github.com/szczepanja/scala-project-node
+
+---
+
+* https://github.com/szczepanja/word-per-count-record
+* https://github.com/szczepanja/spark-submit-kafka
 
 ## Damian
 
@@ -73,6 +84,11 @@
 * https://github.com/1Gize/Hamming
 * https://github.com/1Gize/Robot
 
+---
+
+* https://github.com/1Gize/kafka-producer-wordcount
+* https://github.com/1Gize/spark-read-from-kafka
+
 ## Janek
 
 * https://github.com/JKulczynski/Scala-exam-first
@@ -106,8 +122,18 @@
 * https://github.com/MateuszSab/Hamming
 * https://github.com/MateuszSab/spiral
 
+---
+
+* https://github.com/MateuszSab/kafkaWordCount
+* https://github.com/MateuszSab/structuredStreamingKafkaIntegration
+
 ## Rafał
 
 * https://github.com/rafalkac02/adform-scala-academy-exam0-exercise-1
+
+---
+
+* https://github.com/rafalkac02/kafka-word-count
+* https://github.com/rafalkac02/spark-kafka-records
 
 [^1]: _The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred._ (cf. [All persons fictitious disclaimer](https://en.wikipedia.org/wiki/All_persons_fictitious_disclaimer))
