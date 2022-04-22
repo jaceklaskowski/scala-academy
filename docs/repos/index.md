@@ -38,6 +38,10 @@
 * https://github.com/szczepanja/word-per-count-record
 * https://github.com/szczepanja/spark-submit-kafka
 
+---
+
+* https://github.com/szczepanja/object-oriented-programming
+
 ## Damian
 
 * https://github.com/zdulak/letter-value-sum
