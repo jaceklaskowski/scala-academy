@@ -4,109 +4,93 @@
 
 ## Adam
 
-* https://github.com/stars/admskrzpk/lists/scalaexam
-* https://github.com/admskrzpk/reverse-engineering
-* https://github.com/admskrzpk/Most-important-rows
-
----
-
-* https://github.com/stars/admskrzpk/lists/easter-homework
-
----
-
-* https://github.com/admskrzpk/SparkKafka3
+1. https://github.com/stars/admskrzpk/lists/scalaexam
+1. https://github.com/admskrzpk/reverse-engineering
+1. https://github.com/admskrzpk/Most-important-rows
+1. https://github.com/stars/admskrzpk/lists/easter-homework
+1. https://github.com/admskrzpk/SparkKafka3
+1. https://github.com/admskrzpk/room-capacity
 
 ## Ania
 
-* https://github.com/szczepanja/letter-value-sum
-* https://github.com/szczepanja/isogram
-* https://github.com/szczepanja/nonogram-row
-* https://github.com/szczepanja/hamming
-* https://github.com/szczepanja/robot-simulator
-* https://github.com/szczepanja/pascals-triangle
-
----
-
-* https://github.com/szczepanja/most-important-rows
-* https://github.com/szczepanja/project-euler
-* https://github.com/szczepanja/reverse-engineering
-* https://github.com/szczepanja/scala-reddit
-* https://github.com/szczepanja/scala-project-node
-
----
-
-* https://github.com/szczepanja/word-per-count-record
-* https://github.com/szczepanja/spark-submit-kafka
-
----
-
-* https://github.com/szczepanja/object-oriented-programming
+1. https://github.com/szczepanja/letter-value-sum
+1. https://github.com/szczepanja/isogram
+1. https://github.com/szczepanja/nonogram-row
+1. https://github.com/szczepanja/hamming
+1. https://github.com/szczepanja/robot-simulator
+1. https://github.com/szczepanja/pascals-triangle
+1. https://github.com/szczepanja/most-important-rows
+1. https://github.com/szczepanja/project-euler
+1. https://github.com/szczepanja/reverse-engineering
+1. https://github.com/szczepanja/scala-reddit
+1. https://github.com/szczepanja/scala-project-node
+1. https://github.com/szczepanja/word-per-count-record
+1. https://github.com/szczepanja/spark-submit-kafka
+1. https://github.com/szczepanja/object-oriented-programming
+1. https://github.com/szczepanja/room-oop
+1. https://github.com/szczepanja/partition-counts
 
 ## Damian
 
-* https://github.com/zdulak/letter-value-sum
-* https://github.com/zdulak/isogram
-* https://github.com/zdulak/nonogram-row
-* https://github.com/zdulak/hamming
-* https://github.com/zdulak/robot-simulator
-* https://github.com/zdulak/pascal-triangle
-* https://github.com/zdulak/matching-braces
-* https://github.com/zdulak/Tic-tac-toe-scala
-* https://github.com/zdulak/HanoiTower
-* https://github.com/zdulak/ComputerScala
-* https://github.com/zdulak/DataFrame
-* https://github.com/zdulak/SortedList
-* https://github.com/zdulak/spiral-ascension
-* Spark
-    * https://github.com/zdulak/spark-demo
-    * https://github.com/zdulak/spark-stream
-    * https://github.com/zdulak/spark-exercises
-* https://github.com/zdulak/project-euler
-* https://github.com/zdulak/graph
-* https://github.com/zdulak/scala-exercises
+1. https://github.com/zdulak/letter-value-sum
+1. https://github.com/zdulak/isogram
+1. https://github.com/zdulak/nonogram-row
+1. https://github.com/zdulak/hamming
+1. https://github.com/zdulak/robot-simulator
+1. https://github.com/zdulak/pascal-triangle
+1. https://github.com/zdulak/matching-braces
+1. https://github.com/zdulak/Tic-tac-toe-scala
+1. https://github.com/zdulak/HanoiTower
+1. https://github.com/zdulak/ComputerScala
+1. https://github.com/zdulak/DataFrame
+1. https://github.com/zdulak/SortedList
+1. https://github.com/zdulak/spiral-ascension
+1. Spark
+    1. https://github.com/zdulak/spark-demo
+    1. https://github.com/zdulak/spark-stream
+    1. https://github.com/zdulak/spark-exercises
+1. https://github.com/zdulak/project-euler
+1. https://github.com/zdulak/graph
+1. https://github.com/zdulak/scala-exercises
 
 ## Daniel
 
-* https://github.com/dfiedosiuk/letter-value-sum
-* https://github.com/dfiedosiuk/isogram
-* https://github.com/dfiedosiuk/nanogram-row
-* https://github.com/dfiedosiuk/hamming
-* https://github.com/dfiedosiuk/robot-simulator
-* https://github.com/dfiedosiuk/pascals-triangle
-* https://github.com/dfiedosiuk/matching-brackets
-* https://github.com/dfiedosiuk/spiral-ascension
-
----
-
-* https://github.com/stars/dfiedosiuk/lists/easter-homework
+1. https://github.com/dfiedosiuk/letter-value-sum
+1. https://github.com/dfiedosiuk/isogram
+1. https://github.com/dfiedosiuk/nanogram-row
+1. https://github.com/dfiedosiuk/hamming
+1. https://github.com/dfiedosiuk/robot-simulator
+1. https://github.com/dfiedosiuk/pascals-triangle
+1. https://github.com/dfiedosiuk/matching-brackets
+1. https://github.com/dfiedosiuk/spiral-ascension
+1. https://github.com/stars/dfiedosiuk/lists/easter-homework
 
 ## Grzesiek
 
-* https://github.com/1Gize/letter-value-sums
-* https://github.com/1Gize/Isogram
-* https://github.com/1Gize/Nongram-Row
-* https://github.com/1Gize/Hamming
-* https://github.com/1Gize/Robot
-
----
-
-* https://github.com/1Gize/kafka-producer-wordcount
-* https://github.com/1Gize/spark-read-from-kafka
+1. https://github.com/1Gize/letter-value-sums
+1. https://github.com/1Gize/Isogram
+1. https://github.com/1Gize/Nongram-Row
+1. https://github.com/1Gize/Hamming
+1. https://github.com/1Gize/Robot
+1. https://github.com/1Gize/kafka-producer-wordcount
+1. https://github.com/1Gize/spark-read-from-kafka
+1. https://github.com/1Gize/room
 
 ## Janek
 
-* https://github.com/JKulczynski/Scala-exam-first
-* https://github.com/JKulczynski/Scala-exam-isogram
-* https://github.com/JKulczynski/Scala-exam-nonogram-row
-* https://github.com/JKulczynski/Scala-exam-hamming
-* https://github.com/JKulczynski/Scala-exam-robot-simulator/
+1. https://github.com/JKulczynski/Scala-exam-first
+1. https://github.com/JKulczynski/Scala-exam-isogram
+1. https://github.com/JKulczynski/Scala-exam-nonogram-row
+1. https://github.com/JKulczynski/Scala-exam-hamming
+1. https://github.com/JKulczynski/Scala-exam-robot-simulator/
 
 ## Krzysiek
 
-* https://github.com/krzyjedra/letter-value-sum
-* https://github.com/krzyjedra/isogram
-* https://github.com/krzyjedra/hamming
-* https://github.com/krzyjedra/nonogram-row
+1. https://github.com/krzyjedra/letter-value-sum
+1. https://github.com/krzyjedra/isogram
+1. https://github.com/krzyjedra/hamming
+1. https://github.com/krzyjedra/nonogram-row
+1. https://github.com/krzyjedra/room-app
 
 ## Leonard
 
@@ -120,24 +104,19 @@
 
 ## Mateusz
 
-* https://github.com/MateuszSab/LetterValSum
-* https://github.com/MateuszSab/Isogram
-* https://github.com/MateuszSab/NonogramRow
-* https://github.com/MateuszSab/Hamming
-* https://github.com/MateuszSab/spiral
-
----
-
-* https://github.com/MateuszSab/kafkaWordCount
-* https://github.com/MateuszSab/structuredStreamingKafkaIntegration
+1. https://github.com/MateuszSab/LetterValSum
+1. https://github.com/MateuszSab/Isogram
+1. https://github.com/MateuszSab/NonogramRow
+1. https://github.com/MateuszSab/Hamming
+1. https://github.com/MateuszSab/spiral
+1. https://github.com/MateuszSab/kafka-word-count
+1. https://github.com/MateuszSab/structured-streaming-kafka-integration
+1. https://github.com/MateuszSab/room-oop
 
 ## Rafał
 
-* https://github.com/rafalkac02/adform-scala-academy-exam0-exercise-1
-
----
-
-* https://github.com/rafalkac02/kafka-word-count
-* https://github.com/rafalkac02/spark-kafka-records
+1. https://github.com/rafalkac02/adform-scala-academy-exam0-exercise-1
+1. https://github.com/rafalkac02/kafka-word-count
+1. https://github.com/rafalkac02/spark-kafka-records
 
 [^1]: _The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred._ (cf. [All persons fictitious disclaimer](https://en.wikipedia.org/wiki/All_persons_fictitious_disclaimer))
