@@ -80,6 +80,7 @@
 1. https://github.com/1Gize/spark-read-from-kafka
 1. https://github.com/1Gize/room
 1. https://github.com/1Gize/kafka-streams-word-count
+1. https://github.com/1Gize/kantor-kafka-streams
 
 ## Janek
 
