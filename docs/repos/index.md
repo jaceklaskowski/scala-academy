@@ -10,6 +10,8 @@
 1. https://github.com/stars/admskrzpk/lists/easter-homework
 1. https://github.com/admskrzpk/SparkKafka3
 1. https://github.com/admskrzpk/room-capacity
+1. https://github.com/admskrzpk/figures
+1. https://github.com/admskrzpk/word-count-streams
 
 ## Ania
 
@@ -29,6 +31,7 @@
 1. https://github.com/szczepanja/object-oriented-programming
 1. https://github.com/szczepanja/room-oop
 1. https://github.com/szczepanja/partition-counts
+1. https://github.com/szczepanja/kafka-word-count
 
 ## Damian
 
@@ -52,6 +55,7 @@
 1. https://github.com/zdulak/project-euler
 1. https://github.com/zdulak/graph
 1. https://github.com/zdulak/scala-exercises
+1. https://github.com/zdulak/scala-oop-exercises
 
 ## Daniel
 
@@ -75,6 +79,7 @@
 1. https://github.com/1Gize/kafka-producer-wordcount
 1. https://github.com/1Gize/spark-read-from-kafka
 1. https://github.com/1Gize/room
+1. https://github.com/1Gize/kafka-streams-word-count
 
 ## Janek
 
@@ -94,13 +99,13 @@
 
 ## Leonard
 
-<!--
-* [X](https://github.com/leonardbalas1/CalculatorFinal)
-* [X](https://github.com/leonardbalas1/converter)
-* [X](https://github.com/leonardbalas1/file-words-occurences)
-* [X](https://github.com/leonardbalas1/UpperCase)
-* [X](https://github.com/leonardbalas1/toUpperCaseByN)
--->
+1. https://github.com/leonardbalas1/CalculatorFinal
+1. https://github.com/leonardbalas1/converter
+1. https://github.com/leonardbalas1/file-words-occurences
+1. https://github.com/leonardbalas1/UpperCase
+1. https://github.com/leonardbalas1/toUpperCaseByN
+1. https://github.com/leonardbalas1/SquareRoot
+1. https://github.com/leonardbalas1/99problems_attempt2
 
 ## Mateusz
 
@@ -112,6 +117,8 @@
 1. https://github.com/MateuszSab/kafka-word-count
 1. https://github.com/MateuszSab/structured-streaming-kafka-integration
 1. https://github.com/MateuszSab/room-oop
+1. https://github.com/MateuszSab/word-count-kafka-streams
+1. https://github.com/MateuszSab/shapes-oop
 
 ## Rafał
 
