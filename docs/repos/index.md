@@ -12,6 +12,7 @@
 1. https://github.com/admskrzpk/room-capacity
 1. https://github.com/admskrzpk/figures
 1. https://github.com/admskrzpk/word-count-streams
+1. https://github.com/admskrzpk/currency-exchange
 
 ## Ania
 
@@ -56,6 +57,8 @@
 1. https://github.com/zdulak/graph
 1. https://github.com/zdulak/scala-exercises
 1. https://github.com/zdulak/scala-oop-exercises
+1. https://github.com/zdulak/spark-kafka-exercises
+1. https://github.com/zdulak/kafka-streams-exercises
 
 ## Daniel
 
@@ -120,6 +123,7 @@
 1. https://github.com/MateuszSab/room-oop
 1. https://github.com/MateuszSab/word-count-kafka-streams
 1. https://github.com/MateuszSab/shapes-oop
+1. https://github.com/MateuszSab/kafka-streams-joinig
 
 ## Rafał
 
