@@ -161,10 +161,11 @@ nav:
       - kafka/005.md
       - kafka/006.md
       - kafka/007.md
-  - Docker:
+  - Docker (Week 10):
     - docker/index.md
-    - Docker (Week 10):
-      - docker/001.md
+    - docker/001.md
+    - docker/002.md
+    - docker/003.md
   - Hadoop:
     - hadoop/index.md
     - Hadoop (Week 11):
