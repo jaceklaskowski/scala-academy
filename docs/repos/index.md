@@ -33,6 +33,8 @@
 1. https://github.com/szczepanja/room-oop
 1. https://github.com/szczepanja/partition-counts
 1. https://github.com/szczepanja/kafka-word-count
+1. https://github.com/szczepanja/currency-exchange
+1. https://github.com/szczepanja/figures
 
 ## Damian
 
@@ -92,6 +94,7 @@
 1. https://github.com/JKulczynski/Scala-exam-nonogram-row
 1. https://github.com/JKulczynski/Scala-exam-hamming
 1. https://github.com/JKulczynski/Scala-exam-robot-simulator/
+1. https://github.com/JKulczynski/Power-unit-converter
 
 ## Krzysiek
 
@@ -100,6 +103,9 @@
 1. https://github.com/krzyjedra/hamming
 1. https://github.com/krzyjedra/nonogram-row
 1. https://github.com/krzyjedra/room-app
+1. https://github.com/krzyjedra/2-dimentional-figures
+1. https://github.com/krzyjedra/easter-scala-ex1
+1. https://github.com/krzyjedra/easter-scala-ex2
 
 ## Leonard
 
