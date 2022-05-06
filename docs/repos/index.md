@@ -73,6 +73,7 @@
 1. https://github.com/dfiedosiuk/matching-brackets
 1. https://github.com/dfiedosiuk/spiral-ascension
 1. https://github.com/stars/dfiedosiuk/lists/easter-homework
+1. https://github.com/dfiedosiuk/sbt-docker-list-folders-app
 
 ## Grzesiek
 
@@ -130,11 +131,13 @@
 1. https://github.com/MateuszSab/word-count-kafka-streams
 1. https://github.com/MateuszSab/shapes-oop
 1. https://github.com/MateuszSab/kafka-streams-joinig
+1. https://github.com/MateuszSab/files-from-dir
 
 ## Rafał
 
 1. https://github.com/rafalkac02/adform-scala-academy-exam0-exercise-1
 1. https://github.com/rafalkac02/kafka-word-count
 1. https://github.com/rafalkac02/spark-kafka-records
+1. https://github.com/rafalkac02/directory-traverser
 
 [^1]: _The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred._ (cf. [All persons fictitious disclaimer](https://en.wikipedia.org/wiki/All_persons_fictitious_disclaimer))

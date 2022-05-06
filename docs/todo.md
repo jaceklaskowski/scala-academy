@@ -17,3 +17,19 @@ Here comes a list of things to touch upon at some point during the Scala Academy
     * https://github.com/cashapp/pranadb/tree/main/.github/workflows
     * https://github.com/dbt-labs/dbt-spark/tree/main/.github/workflows
     * https://github.com/delta-io/delta/tree/master/.github/workflows
+
+## Docker Compose
+
+1. [Overview of Docker Compose](https://docs.docker.com/compose/)
+1. [Get started with Docker Compose](https://docs.docker.com/compose/gettingstarted/)
+
+### Exercise: Dockerized Kafka Cluster
+
+Running a dockerized Kafka Cluster using [Confluent Platform](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html) (and Docker Compose).
+
+### Exercise: Dockerized Kafka Streams Application
+
+Create and run a dockerized Kafka Streams application.
+
+**TIP**: Use [Confluent Platform](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html) (and Docker Compose).
+
