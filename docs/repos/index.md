@@ -35,6 +35,7 @@
 1. https://github.com/szczepanja/kafka-word-count
 1. https://github.com/szczepanja/currency-exchange
 1. https://github.com/szczepanja/figures
+1. https://github.com/szczepanja/file-listing
 
 ## Damian
 
@@ -87,6 +88,7 @@
 1. https://github.com/1Gize/room
 1. https://github.com/1Gize/kafka-streams-word-count
 1. https://github.com/1Gize/kantor-kafka-streams
+1. https://github.com/1Gize/list-files-in-folder
 
 ## Janek
 
@@ -96,6 +98,7 @@
 1. https://github.com/JKulczynski/Scala-exam-hamming
 1. https://github.com/JKulczynski/Scala-exam-robot-simulator/
 1. https://github.com/JKulczynski/Power-unit-converter
+1. https://github.com/JKulczynski/Docker-CommandLine-App
 
 ## Krzysiek
 
