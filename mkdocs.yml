@@ -82,6 +82,12 @@ extra:
   book:
     title: Scala Academy
     calculator: https://github.com/jaceklaskowski/scala-academy/tree/main/calculator
+  cloudera:
+    docs: https://docs.cloudera.com/documentation/enterprise/6/6.3
+    version: 6.3
+  hadoop:
+    docs: https://hadoop.apache.org/docs/r3.3.2
+    version: 3.3.2
   kafka:
     javadoc: https://kafka.apache.org/31/javadoc
     version: 3.1.0
@@ -161,15 +167,16 @@ nav:
       - kafka/005.md
       - kafka/006.md
       - kafka/007.md
-  - Docker (Week 10):
+  - Docker:
     - docker/index.md
     - docker/001.md
     - docker/002.md
     - docker/003.md
-  - Hadoop:
+  - Hadoop (Week 11):
     - hadoop/index.md
-    - Hadoop (Week 11):
-      - hadoop/001.md
+    - hadoop/001.md
+    - hadoop/002.md
+    - hadoop/003.md
   - Kubernetes:
     - kubernetes/index.md
     - Kubernetes (Week 12):
