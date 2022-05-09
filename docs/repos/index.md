@@ -36,6 +36,7 @@
 1. https://github.com/szczepanja/currency-exchange
 1. https://github.com/szczepanja/figures
 1. https://github.com/szczepanja/file-listing
+1. https://github.com/szczepanja/spark-and-hdfs
 
 ## Damian
 
@@ -62,6 +63,7 @@
 1. https://github.com/zdulak/scala-oop-exercises
 1. https://github.com/zdulak/spark-kafka-exercises
 1. https://github.com/zdulak/kafka-streams-exercises
+1. https://github.com/zdulak/list-files
 
 ## Daniel
 
@@ -110,6 +112,7 @@
 1. https://github.com/krzyjedra/2-dimentional-figures
 1. https://github.com/krzyjedra/easter-scala-ex1
 1. https://github.com/krzyjedra/easter-scala-ex2
+1. https://github.com/krzyjedra/dockerized-scala-cmd-app
 
 ## Leonard
 
