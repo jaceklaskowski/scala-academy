@@ -4,7 +4,6 @@ Here comes a list of things to touch upon at some point during the Scala Academy
 
 1. [ScalaCheck](https://scalacheck.org/)
 1. [Testcontainers](https://www.testcontainers.org/)
-1. Testing Spark apps
 1. Testing Kafka apps
     1. Consumer and Producer APIs
     1. [Testing Apache Kafka](https://developer.confluent.io/learn/testing-kafka/)
@@ -17,6 +16,7 @@ Here comes a list of things to touch upon at some point during the Scala Academy
     * https://github.com/cashapp/pranadb/tree/main/.github/workflows
     * https://github.com/dbt-labs/dbt-spark/tree/main/.github/workflows
     * https://github.com/delta-io/delta/tree/master/.github/workflows
+    * https://github.com/datapunchorg/punch/blob/main/.github/workflows
 
 ## Docker Compose
 

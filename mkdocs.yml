@@ -179,8 +179,8 @@ nav:
     - hadoop/003.md
   - Kubernetes:
     - kubernetes/index.md
-    - Kubernetes (Week 12):
-      - kubernetes/001.md
+    - kubernetes/001.md
+    - kubernetes/002.md
   - Repos:
     - repos/index.md
   - TODOs:
