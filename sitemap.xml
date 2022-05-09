@@ -101,6 +101,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/kubernetes/002/</loc>
+         <lastmod>2022-05-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://jaceklaskowski.github.io/scala-academy/repos/</loc>
          <lastmod>2022-05-09</lastmod>
          <changefreq>daily</changefreq>
