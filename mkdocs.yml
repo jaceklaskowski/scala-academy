@@ -172,12 +172,12 @@ nav:
     - docker/001.md
     - docker/002.md
     - docker/003.md
-  - Hadoop (Week 11):
+  - Hadoop:
     - hadoop/index.md
     - hadoop/001.md
     - hadoop/002.md
     - hadoop/003.md
-  - Kubernetes:
+  - Kubernetes (Week 11):
     - kubernetes/index.md
     - kubernetes/001.md
     - kubernetes/002.md

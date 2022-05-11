@@ -33,3 +33,20 @@ Create and run a dockerized Kafka Streams application.
 
 **TIP**: Use [Confluent Platform](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html) (and Docker Compose).
 
+## Dockerized Spark App
+
+Working together on [Exercise 3: Dockerized Spark App](docker/003.md#exercise-3-dockerized-spark-app) from the Docker module.
+
+## Introduction to Cloudera Enterprise 6.3
+
+Read the following documents. Get familiar with the basics.
+
+1. [Overview of Cloudera and the Cloudera Documentation Set]({{ cloudera.docs }}/topics/introduction.html)
+1. [CDH Overview]({{ cloudera.docs }}/topics/cdh_intro.html)
+1. [Cloudera Manager Overview]({{ cloudera.docs }}/topics/cm_intro_primer.html)
+1. (optional) [Cluster Management]({{ cloudera.docs }}/topics/administration.html)
+
+!!! important
+    From [Cloudera Community Forum](https://community.cloudera.com/t5/Support-Questions/cloudera-sandbox-6-3-0-docker-run-no-services-are-running/m-p/339791/highlight/true#M233182):
+
+    > We currently don't support any docker-based sandbox/quickstart clusters. The one available in GitHub is of a very old CDH version.
