@@ -18,25 +18,6 @@ Here comes a list of things to touch upon at some point during the Scala Academy
     * https://github.com/delta-io/delta/tree/master/.github/workflows
     * https://github.com/datapunchorg/punch/blob/main/.github/workflows
 
-## Docker Compose
-
-1. [Overview of Docker Compose](https://docs.docker.com/compose/)
-1. [Get started with Docker Compose](https://docs.docker.com/compose/gettingstarted/)
-
-### Exercise: Dockerized Kafka Cluster
-
-Running a dockerized Kafka Cluster using [Confluent Platform](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html) (and Docker Compose).
-
-### Exercise: Dockerized Kafka Streams Application
-
-Create and run a dockerized Kafka Streams application.
-
-**TIP**: Use [Confluent Platform](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html) (and Docker Compose).
-
-## Dockerized Spark App
-
-Working together on [Exercise 3: Dockerized Spark App](docker/003.md#exercise-3-dockerized-spark-app) from the Docker module.
-
 ## Introduction to Cloudera Enterprise 6.3
 
 Read the following documents. Get familiar with the basics.
@@ -50,3 +31,27 @@ Read the following documents. Get familiar with the basics.
     From [Cloudera Community Forum](https://community.cloudera.com/t5/Support-Questions/cloudera-sandbox-6-3-0-docker-run-no-services-are-running/m-p/339791/highlight/true#M233182):
 
     > We currently don't support any docker-based sandbox/quickstart clusters. The one available in GitHub is of a very old CDH version.
+
+## Exercises: Spark on minikube
+
+1. [Demo: Running Spark Structured Streaming on minikube](https://jaceklaskowski.github.io/spark-kubernetes-book/demo/running-spark-structured-streaming-on-minikube/)
+1. [Demo: Spark and Local Filesystem in minikube](https://jaceklaskowski.github.io/spark-kubernetes-book/demo/spark-and-local-filesystem-in-minikube/)
+
+## Exercise: HorizontalPodAutoscaler Walkthrough
+
+[HorizontalPodAutoscaler Walkthrough](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale-walkthrough/)
+
+## Deployments in Kubernetes
+
+Read [Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/).
+
+## (optional) Exercise: Kafka Streams on minikube
+
+This is a fairly challenging (_hard_?) exercise and hence optional. It should help you understand how to scale applications up and down but more importantly how to deploy a Kafka application that consumes records from a Kafka cluster on minikube (if possible) or outside minikube.
+
+Scaling up and down a Kafka Streams application on minikube.
+
+1. Create a Kafka Streams application
+2. Deploy it to Kubernetes (minikube)
+
+The main challenge is to set up a Kafka cluster so it is accessible to the Kafka Streams application.
