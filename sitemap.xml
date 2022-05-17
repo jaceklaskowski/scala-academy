@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://jaceklaskowski.github.io/scala-academy/final-exam/</loc>
+         <lastmod>2022-05-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://jaceklaskowski.github.io/scala-academy/todo/</loc>
          <lastmod>2022-05-17</lastmod>
          <changefreq>daily</changefreq>
