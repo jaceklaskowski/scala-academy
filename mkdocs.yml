@@ -80,8 +80,8 @@ extra:
     provider: google
     property: !ENV GOOGLE_ANALYTICS_KEY
   book:
+    github: https://github.com/jaceklaskowski/scala-academy/tree/main
     title: Scala Academy
-    calculator: https://github.com/jaceklaskowski/scala-academy/tree/main/calculator
   cloudera:
     docs: https://docs.cloudera.com/documentation/enterprise/6/6.3
     version: 6.3
@@ -107,6 +107,7 @@ extra:
       link: https://jaceklaskowski.medium.com
   spark:
     docs: https://spark.apache.org/docs/3.2.1
+    github: https://github.com/apache/spark/blob/v3.2.1
     version: 3.2.1
 
 nav:
