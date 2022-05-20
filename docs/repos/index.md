@@ -37,6 +37,7 @@
 1. https://github.com/szczepanja/figures
 1. https://github.com/szczepanja/file-listing
 1. https://github.com/szczepanja/spark-and-hdfs
+1. https://github.com/szczepanja/kafka-streams-dockerized
 
 ## Damian
 
@@ -64,6 +65,7 @@
 1. https://github.com/zdulak/spark-kafka-exercises
 1. https://github.com/zdulak/kafka-streams-exercises
 1. https://github.com/zdulak/list-files
+1. https://github.com/zdulak/kafka-streams-docker
 
 ## Daniel
 

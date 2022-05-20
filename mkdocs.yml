@@ -89,6 +89,7 @@ extra:
     docs: https://hadoop.apache.org/docs/r3.3.2
     version: 3.3.2
   kafka:
+    docs: https://kafka.apache.org/31/documentation
     javadoc: https://kafka.apache.org/31/javadoc
     version: 3.1.0
   scala:
@@ -182,12 +183,15 @@ nav:
     - kubernetes/index.md
     - kubernetes/001.md
     - kubernetes/002.md
-  - Varia (Week 12):
+  - Varia (Week 13):
     - varia/index.md
     - varia/001.md
     - varia/002.md
     - varia/003.md
     - varia/004.md
+    - varia/005.md
+    - varia/006.md
+    - varia/007.md
   - Lost+Found:
     - repos/index.md
     - todo.md
