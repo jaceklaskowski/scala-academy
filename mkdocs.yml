@@ -183,7 +183,7 @@ nav:
     - kubernetes/index.md
     - kubernetes/001.md
     - kubernetes/002.md
-  - Varia (Week 13):
+  - Varia:
     - varia/index.md
     - varia/001.md
     - varia/002.md
@@ -191,8 +191,10 @@ nav:
     - varia/004.md
     - varia/005.md
     - varia/006.md
+  - Last Monday:
     - varia/007.md
+  - Final Exam:
+    - final-exam.md
   - Lost+Found:
     - repos/index.md
     - todo.md
-    - final-exam.md
